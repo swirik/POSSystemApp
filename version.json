@@ -1,5 +1,5 @@
 {
-  "version": "1.2.0",
-  "url": "https://github.com/swirik/POSSystemApp/releases/download/v1.2.0/POSSystemApp-v1.2.0-1.0.msi",
+  "version": "1.2.1",
+  "url": "https://github.com/swirik/POSSystemApp/releases/download/v1.2.1/POSSystemApp-1.2.1.msi",
   "notes": "To ensure smooth upgrades going forward, please follow these one-time steps if you have previously installed Celeste POS v1.2.0 or earlier:\n\n1. Open Control Panel → Programs → Uninstall a Program\n2. Look for POSSystemApp-v1.2.0 (or your currently installed version)\n3. Right-click and Uninstall it\n\nFuture versions will update automatically without this step."
 }
