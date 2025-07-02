@@ -1,5 +1,5 @@
 {
-  "version": 1.3.0,
+  "version": "1.2.1",
   "url": "https://github.com/swirik/POSSystemApp/releases/download/v1.2.1/POSSystemApp-1.2.1.msi",
   "notes": "Added support for creating new product categories. \n Implemented a right-click View option in the inventory table to display product details in a clean layout. \n Enabled image support for products; users can now attach pictures to individual items."
 }
